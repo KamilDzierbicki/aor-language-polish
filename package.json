@@ -1,0 +1,24 @@
+{
+  "name": "aor-language-polish",
+  "version": "1.0.0",
+  "description": "Polish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilDzierbicki/aor-language-polish.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "Kamil Dzierbicki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamilDzierbicki/aor-language-polish/issues"
+  },
+  "homepage": "https://github.com/KamilDzierbicki/aor-language-polish#readme"
+}
