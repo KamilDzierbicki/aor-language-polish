@@ -11,6 +11,7 @@ module.exports = {
             refresh: 'Odśwież',
             add_filter: 'Dodaj filtr',
             remove_filter: 'Usuń filtr',
+            back: 'Powrót',
         },
         boolean: {
             true: 'Tak',
@@ -23,6 +24,7 @@ module.exports = {
             create: 'Utwórz %{name}',
             delete: 'Usuń %{name} #%{id}',
             dashboard: 'Panel główny',
+            not_found: 'Strona nie została znaleziona',
         },
         input: {
             image: {
@@ -35,6 +37,7 @@ module.exports = {
             no: 'Nie',
             are_you_sure: 'Czy jesteś pewien?',
             about: 'O',
+            not_found: 'Strona której szukasz nie istnieje',
         },
         navigation: {
             no_results: 'Nie znaleziono',
